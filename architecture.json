@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_confessional_memory_identity",
+  "title": "The Ghostwriter's Daughter",
+  "tagline": "She was raised to forge other people's memories, until she had to confront the truth of her own.",
+  "target_words": 70000,
+  "actual_words": 71549,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Memory",
+    "The Inherited Craft of Lying",
+    "The Search for an Authentic Self Amidst Fictions",
+    "Latin American Identity as a Constructed Narrative"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Lie",
+      "words": 2975
+    },
+    {
+      "ch": 2,
+      "title": "The Archive of Other Lives",
+      "words": 2980
+    },
+    {
+      "ch": 3,
+      "title": "Lessons in Osmosis",
+      "words": 2980
+    },
+    {
+      "ch": 4,
+      "title": "The Smell of Truth",
+      "words": 2980
+    },
+    {
+      "ch": 5,
+      "title": "The Unwritten Mother",
+      "words": 2980
+    },
+    {
+      "ch": 6,
+      "title": "A Voice is a Geography",
+      "words": 2980
+    },
+    {
+      "ch": 7,
+      "title": "The Machinery and the Art",
+      "words": 2980
+    },
+    {
+      "ch": 8,
+      "title": "The Client's Village",
+      "words": 2980
+    },
+    {
+      "ch": 9,
+      "title": "Fictions That Pay Rent",
+      "words": 2980
+    },
+    {
+      "ch": 10,
+      "title": "The Banned Books",
+      "words": 2980
+    },
+    {
+      "ch": 11,
+      "title": "The Whisper in History's Ear",
+      "words": 2980
+    },
+    {
+      "ch": 12,
+      "title": "The Corroborating Detail",
+      "words": 2980
+    },
+    {
+      "ch": 13,
+      "title": "A Crack in the Mask",
+      "words": 2980
+    },
+    {
+      "ch": 14,
+      "title": "The Ghost in the Frame",
+      "words": 2980
+    },
+    {
+      "ch": 15,
+      "title": "Trapdoors of Feeling",
+      "words": 2980
+    },
+    {
+      "ch": 16,
+      "title": "The Man of Erased Margins",
+      "words": 2980
+    },
+    {
+      "ch": 17,
+      "title": "Buying a Voice",
+      "words": 2980
+    },
+    {
+      "ch": 18,
+      "title": "The Taste of Caramel and Fear",
+      "words": 2980
+    },
+    {
+      "ch": 19,
+      "title": "The Pilgrimage That Wasn't",
+      "words": 2980
+    },
+    {
+      "ch": 20,
+      "title": "The Living Footnote",
+      "words": 2980
+    },
+    {
+      "ch": 21,
+      "title": "The Unfurnished Silence",
+      "words": 2980
+    },
+    {
+      "ch": 22,
+      "title": "The Hook, Set Deep",
+      "words": 2980
+    },
+    {
+      "ch": 23,
+      "title": "Confronting the Cipher",
+      "words": 2980
+    },
+    {
+      "ch": 24,
+      "title": "Writing Her Own Margin",
+      "words": 2989
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Soledad, as an adult, is hired to ghostwrite a memoir for a client who claims to know the truth about her mother.",
+      "Create a chapter where Soledad discovers one of her father's early, unpublished attempts to write about his own past.",
+      "Imagine a pivotal confrontation between Soledad and a former client whose 'memoir' she helped fabricate, who now demands a sequel.",
+      "Write a monologue from the perspective of Soledad's father, Santiago, explaining why he chose to make his daughter his apprentice."
+    ],
+    "technical": [
+      "Build an interactive 'archive' website showcasing the fictional clients' objects (tape recordings, love letters, diaries) described in the novel, with audio snippets and annotated transcriptions.",
+      "Create a narrative visualization tool that maps the geographic origins of the clients' voices (Caribbean, River Plate, Andes) against the emotional themes Soledad extracts from their stories."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Julio Cortázar",
+      "Joan Didion",
+      "Jorge Luis Borges",
+      "Elena Ferrante"
+    ]
+  },
+  "cover_prompt": "A young woman's face, half in sharp focus and half dissolving into a cascade of handwritten manuscript pages, her expression caught between revelation and profound loss, [Detailed Scene & Context: She sits at a heavy, carved wooden desk in a dim, book-lined study, surrounded by towering shelves of client files and antique recording devices; one hand rests on a weathered journal while the other touches her own reflection in a tarnished silver hand mirror, the glass surface fracturing to reveal glimpses of blurred, contested memories from a tropical past], [Artistic Style & Medium: in the atmospheric, magical realist style of Remedios Varo, blending precise figurative painting with surreal, symbolic elements and textured, layered backgrounds, photorealistic detail, mixed media with the texture of aged paper and oil paint], [Composition & Camera: book cover framing, centered composition with a tight, intimate portrait crop that emphasizes her conflicted gaze, a shallow depth of field that blurs the countless files into a ghostly backdrop], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single key light from a desk lamp, casting deep shadows and highlighting the textures of paper and skin, a palette of sepia, burnt umber, and archival cream punctuated by the vibrant, unexpected turquoise and gold leaf of the emerging memories], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
