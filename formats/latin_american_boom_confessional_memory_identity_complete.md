@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The first lie I ever told for him was to a customs officer at the Simón Bolívar International Airport. I was nine years old, and my tongue felt like a piece of salted leather in my mouth.
@@ -75,6 +77,8 @@ I pressed my forehead against the cool wood. I understood my role now. I was not
 The typewriter stopped. I held my breath. I heard the scrape of his chair, the sigh of a man stepping back from a world he had built. I fled back to my room before the door could open, before the light could catch me. But the question remained, hanging in the dark of the hallway, more solid than any of the ghosts on our shelves.
 
 It was the question that would define everything that came after. It was the hook, set deep in my childhood, now pulling taut.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -184,6 +188,8 @@ He handed me the first diary and a fresh notebook. My fingers brushed the old le
 I looked up at my father, who was already lost in a photograph, holding it up to the cold fluorescent light. I looked down at the words. The hook was in me, yes. But now, I felt the line pull, not from the past, but from the depths of this metal box. We were no longer just selling ghosts.
 
 We were moving in with them.
+
+# Chapter 3
 
 ## **Chapter 3**
 
